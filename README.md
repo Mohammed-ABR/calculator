@@ -6,7 +6,8 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. It fe
 - JavaScript
 - Poppins font library
 ## Screenshot
-A screenshot of the calculator’s design is available. You can add an image by including the path in your description.
+<img src="./image/calculator.png" alt="calculator" width="300" height="300">
+
 ## Project Setup
 1. Clone the repository: `git clone <repo link>`
 2. Navigate to the project directory: `cd calculator-project`
@@ -19,7 +20,7 @@ A screenshot of the calculator’s design is available. You can add an image by 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Calculator</title>
+    <title>Calculator</title
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
